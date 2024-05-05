@@ -1,2 +1,2 @@
 # projetoMercado
-foi desenvolvido uma aplicação, que simula um sistema de mercado, com o propósito de estudar mais a linguagem em um projeto prático
+foi desenvolvido uma aplicação, que simula um sistema de mercado, com o propósito de criar uma aplicação que funcionasse como sistema de mercado, ou seja, foram implementadas algumas funções que auxiliasse o menu que aparece para o usuário quando o programa é  inicializado, por exemplo: visualizar carrinho, buscarProdutoPorCodigo entre outras...
